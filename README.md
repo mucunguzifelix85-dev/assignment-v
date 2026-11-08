@@ -5,9 +5,9 @@ An army training school database: ranks, units, missions, soldiers, and which so
 ## One file per person
 | Student | Student no. | P | U | M | Soldier 32 rank | Soldier 33 unit | File | Database |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Uwase Ishimwe Viella | 202511196 | 6 | 1 | 2 | 1 | 2 | `sms_202511196.sql` | `sms_202511196` |
-| Mugisha Alain Paisible | 202510787 | 7 | 4 | 3 | 2 | 5 | `sms_202510787.sql` | `sms_202510787` |
-| Mutegetsi Fidele | 202510585 | 5 | 2 | 1 | 6 | 3 | `sms_202510585.sql` | `sms_202510585` |
+| Mucunguzi felic| 202510599 | 6 | 1 | 2 | 1 | 2 | `sms_202510599.sql` | `sms_202510599` |
+| ishimwe yousra joyce | 202513181 | 7 | 4 | 3 | 2 | 5 | `sms_202513181.sql` | `sms_202513181` |
+| carlos Goodluck MUKAMA | 202511910 | 5 | 2 | 1 | 6 | 3 | `sms_202511910.sql` | `sms_202511910` |
 
 P = last digit; U = (last two digits mod 6) + 1; M = (P mod 5) + 1. Every person's file uses their own values, so queries C4, C7, C8, D3 and soldiers 31-33 differ per file.
 
