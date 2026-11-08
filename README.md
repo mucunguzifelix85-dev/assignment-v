@@ -5,7 +5,7 @@ An army training school database: ranks, units, missions, soldiers, and which so
 ## One file per person
 | Student | Student no. | P | U | M | Soldier 32 rank | Soldier 33 unit | File | Database |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mucunguzi felic| 202510599 | 6 | 1 | 2 | 1 | 2 | `sms_202510599.sql` | `sms_202510599` |
+| Mucunguzi felix| 202510599 | 6 | 1 | 2 | 1 | 2 | `sms_202510599.sql` | `sms_202510599` |
 | ishimwe yousra joyce | 202513181 | 7 | 4 | 3 | 2 | 5 | `sms_202513181.sql` | `sms_202513181` |
 | carlos Goodluck MUKAMA | 202511910 | 5 | 2 | 1 | 6 | 3 | `sms_202511910.sql` | `sms_202511910` |
 
