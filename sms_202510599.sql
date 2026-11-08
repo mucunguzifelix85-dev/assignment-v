@@ -12,11 +12,11 @@ SELECT DATABASE(), CURRENT_USER(), NOW();
 
 -- A0
 -- Does: creates my own database so all 5 tables live in one place.
-CREATE DATABASE IF NOT EXISTS sms_202510585;
+CREATE DATABASE IF NOT EXISTS sms_202510599;
 
 -- A0b
 -- Does: selects my database so every following statement works inside it.
-USE sms_202510585;
+USE sms_202510599;
 
 -- A0c
 -- Does: removes the view if an old copy exists, so this file can be re-run safely.
