@@ -1,7 +1,7 @@
 SELECT DATABASE(), CURRENT_USER(), NOW();
 
 -- ============================================================
--- Soldier Management SQL   |  Student: Mugisha Alain Paisible  (202510787)
+-- Soldier Management SQL   |  Student: yousra joyce  (202510787)
 -- Personal values: P=7  U=4  M=3
 -- Needs soldiers_seed.sql (teacher) in the same folder as this file.
 -- Run from this folder:  mysql -u root -p -t -e "source sms_202510787.sql"
