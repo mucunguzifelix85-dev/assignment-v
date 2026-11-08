@@ -1,7 +1,7 @@
 SELECT DATABASE(), CURRENT_USER(), NOW();
 
 -- ============================================================
--- Soldier Management SQL   |  Student: Uwase Ishimwe Viella  (202511196)
+-- Soldier Management SQL   |  Student: joyce (202513181)
 -- Personal values: P=6  U=1  M=2
 -- Needs soldiers_seed.sql (teacher) in the same folder as this file.
 -- Run from this folder:  mysql -u root -p -t -e "source sms_202511196.sql"
@@ -12,11 +12,11 @@ SELECT DATABASE(), CURRENT_USER(), NOW();
 
 -- A0
 -- Does: creates my own database so all 5 tables live in one place.
-CREATE DATABASE IF NOT EXISTS sms_202511196;
+CREATE DATABASE IF NOT EXISTS sms_202513181;
 
 -- A0b
 -- Does: selects my database so every following statement works inside it.
-USE sms_202511196;
+USE sms_202513181;
 
 -- A0c
 -- Does: removes the view if an old copy exists, so this file can be re-run safely.
