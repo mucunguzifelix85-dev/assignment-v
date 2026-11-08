@@ -37,9 +37,9 @@ Every statement has a comment; every SELECT has a `Rows returned` line.
 ## How to run (PowerShell, in this folder)
 Put the teacher's `soldiers_seed.sql` here first, then:
 ```powershell
-mysql -u root -p -t -e "source sms_202511196.sql"
-mysql -u root -p -t -e "source sms_202510787.sql"
-mysql -u root -p -t -e "source sms_202510585.sql"
+mysql -u root -p -t -e "source sms_202510599.sql"
+mysql -u root -p -t -e "source sms_202511910.sql"
+mysql -u root -p -t -e "source sms_202513181.sql"
 ```
 
 ## Before hand-in (each person, own file only)
